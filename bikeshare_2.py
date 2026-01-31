@@ -1,3 +1,4 @@
+# This project was made to compelete the course "Programming for Data Science with Python" on Udacity
 import time
 import pandas as pd
 import numpy as np
