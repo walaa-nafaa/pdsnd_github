@@ -39,6 +39,7 @@ It also supports viewing raw data incrementally (5 rows at a time) and gracefull
 - Udacity – *Programming for Data Science with Python* Nanodegree (project specification and datasets)
 - pandas documentation: https://pandas.pydata.org/docs/
 - Python documentation: https://docs.python.org/3/
+- Created and uploaed by Walaa
 
 
 
