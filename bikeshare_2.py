@@ -62,9 +62,9 @@ def get_filters():
     Asks user to specify a city, month, and day to analyze.
 
     Returns:
-        (str) city - name of the city to analyze
-        (str) month - name of the month to filter by, or "all" to apply no month filter
-        (str) day - name of the day of week to filter by, or "all" to apply no day filter
+        (str) City - name of the city to analyze
+        (str) Month - name of the month to filter by, or "all" to apply no month filter
+        (str) Day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print_header("🚴 US BIKESHARE DATA EXPLORER 🚴")
     print(f"{Colors.BRIGHT_CYAN}Hello! Let's explore some US bikeshare data!{Colors.ENDC}\n")
